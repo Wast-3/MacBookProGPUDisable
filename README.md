@@ -1,4 +1,4 @@
-# MacBookProGPUDisable
+#2011 Mac Book Pro GPU Disable
 This script disables the GPU on 15 inch 2011 macbook pros. 
 
 # Guide
